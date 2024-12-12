@@ -6,7 +6,7 @@ Desenvolvedor Full-Stack + Estudante de Ciência Da Computação
 
 Atualmente estou cursando TI na universidade Católica de Brasília, estou no terceiro semestre atualmente, nesta faculdade estou aprendendo tanto programação quanto  aprendi várias coisas envolvendo programação de computadores e softwares, aprendi linguagens de front-end e back-end, como C, java e javascript e modelagem de banco de dados.
 
-As áreas que me chamam atenção atualmente são desenvolvimento web e desenvolvimento de softwares.
+As áreas que me chamam atenção atualmente são: desenvolvimento web e desenvolvimento de softwares.
 
 Em termos de projetos envolvendo linguagens de programação, eu já densenvolvi uma aplicação para um sistema de cadastro de alunos em uma universidade utilizando java e banco de dados relacionais.
 
