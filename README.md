@@ -1,31 +1,22 @@
-# 👨‍💻 Olá à Todos
+# 💫 About Me:
+# 👨‍💻 Olá à Todos!<br>-> Eu sou André de Oliveira Moura<br>-> Desenvolvedor Full-Stack Júnior<br>-> Estudante de Ciência da Computação<br><br># 🔭 Atualmente estou trabalhando em:<br>-> Estou Procurando melhorar minhas habilidades tanto no front quanto no back.<br>-> Procuro estudar e me apronfundar no Linux.<br>-> Procuro também estudar bibliotecas e frameworks de linguagens de programação<br><br>#👯 Estou procurando colaborar:<br>-> Ideias inovadoras como (web, apps, e etc)<br>-> Procuro colaborar em projetos que envolvam programação web também<br><br>#🤝 Estou Procurando Ajuda Com:<br><br>-> Sugestões para documentar melhor os meus projetos.<br>-> Linguagens que estão em alta no desenvolvimento.<br><br>#🌱 Atualmente estou aprendendo:<br>-> Python<br>-> React-Native<br>-> Typescript<br><br>#💬 Pergunte-me sobre:<br><br>## Desenvolvimento Front-End:<br>-> HTML5<br>-> CSS3<br>-> JAVASCRIPT<br>-> REACT<br>-> BotsTrap<br><br>## Desenvolvimento Back-End:<br>-> JAVA<br>-> C<br>-> PHP<br>-> NODE.JS<br><br>#⚡ Curiosidades:<br><br>-> Comecei a programar com 17 anos, comecei aprendendo lógica de programação em C, <br>após isso comecei a estudar programação front-end, <br>depois disso foquei em ser desenvolvedor full-stack.<br><br>-> Gosto de ouvir de ouvir rock ou eletrônica equanto programo.<br>-> Curto jogar videogames quando não estou programando.<br>-> Um outro motivo de eu programar, é proque um dia eu quero chegar a fazer que mude a vida das pessoas para melhor.
 
-Eu sou André de Oliveira Moura
 
-Desenvolvedor Full-Stack + Estudante de Ciência Da Computação
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andreoliveiramoura06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Andre Oliveira) 
 
-Atualmente estou cursando TI na universidade Católica de Brasília, estou no terceiro semestre atualmente, nesta faculdade estou aprendendo tanto programação quanto testes de softwares aprendi várias coisas envolvendo programação de computadores e softwares, aprendi linguagens de front-end e back-end, como C, java e javascript e modelagem de banco de dados.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Andre-Moura-Dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Andre-Moura-Dev&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Moura-Dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-As áreas que atualmente me chamam atenção são: desenvolvimento web e desenvolvimento de softwares.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Em termos de projetos envolvendo linguagens de programação, eu já densenvolvi uma aplicação para um sistema de cadastro de alunos em uma universidade, utilizando java e banco de dados relacionais.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Andre-Moura-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Eu também já desenvolvi uma aplicação utilizando php e banco de dados relacionais, para um sistema de controle de estoque e venda de televisores para um projeto do curso técnico que fiz.
-
-Atualmente estou querendo focar em: <br>
-
--> React-Native <br>
--> Python <br>
--> Typescript <br>
-
-<div>
-    <h1> Linguagens de Programação e Banco de Dados </h1>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" width="80", height="80">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="80", height="80">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="80", height="80">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="80", height="80">
-    <img src="https://tm.ibxk.com.br/materias/7204960/56172.jpg" width="80", height="80">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="80", height="80">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="80", height="80">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/0*v_gz9byAfMaCPZTq.png" width="80", height="80">
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Andre-Moura-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
