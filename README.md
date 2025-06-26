@@ -126,8 +126,8 @@ Uso ferramentas importantes para versionamento, deploy e produtividade:
 
 ## 📊 Minhas Estatísticas no GitHub
 
-[![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Moura-Dev)]( https://github.com/Andre-Moura-Dev )
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Andre-Moura-Dev)]( https://github.com/Andre-Moura-Dev )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Moura-Dev&theme=dark)]( https://github.com/Andre-Moura-Dev )
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Andre-Moura-Dev&theme=dark)]( https://github.com/Andre-Moura-Dev )
 
 ---
 
