@@ -1,24 +1,136 @@
-# 💫 About Me:
-👨‍💻 Olá à Todos!<br>-> Eu sou André de Oliveira<br>-> Desenvolvedor Full-Stack Júnior<br>-> Estudante de Ciência da Computação<br><br># 🔭 Atualmente estou trabalhando em:<br>-> Melhorar minhas habilidades tanto no front quanto no back.<br>-> Estudar e me aprofundar no Linux.<br>-> Estudar outras bibliotecas e frameworks de linguagens de programação<br><br># 🤝 Estou procurando colaborar:<br>-> Ideias inovadoras como (web, apps, e etc)<br>-> Procuro colaborar em projetos reais.<br><br># 🤝 Estou Procurando Ajuda Com:<br>-> Sugestões para documentar melhor os meus projetos.<br>-> Linguagens que estão em alta no desenvolvimento.<br>-> Como programar de forma mais limpa e eficiente.<br><br># 🌱 Atualmente estou aprendendo:<br>-> Python<br>-> React-Native<br>-> Typescript<br>-> Comandos Linux<br>-> Inglês<br><br># 💬 Pergunte-me sobre:<br><br># Desenvolvimento Front-End:<br>-> HTML5<br>-> CSS3<br>-> JAVASCRIPT (com next.js)<br>-> TYPESCRIPT (com next.js)<br>-> REACT (usando vite.js)<br>-> BOTSTRAP<br><br># Desenvolvimento Back-End:<br>-> JAVA (Mysql)<br>-> C<br>-> PHP (Mysql)<br>-> JAVASCRIPT (usando node.js)<br>-> TYPESCRIPT (usando node.js)<br>-> NODE.JS<br><br># ⚡Curiosidades:<br><br>-> Comecei na área de programação com 15 anos, aprendi lógica de programação, logo após aprender lógica,<br>comecei a estudar programação front e depois back.<br><br>-> Gosto de ouvir de ouvir rock ou eletrônica enquanto programo.<br>-> Curto jogar videogames, quando não estou programando.<br>-> Um dos motivos para eu querer entrar na área da programação foi por interesse próprio,<br>pois futuramente quando terminar a minha faculdade quero fazer algo que mude a vida das pessoas para melhor.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andreoliveiramoura06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreoliveiramoura) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Andre-Moura-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Andre-Moura-Dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Moura-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Andre-Moura-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <h1>👋 Olá à todos! Eu sou André</h1>
+  <p><strong>Desenvolvedor Full-Stack Júnior | Estudante de Ciência da Computação</strong></p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Andre-Moura-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Sobre Mim
+
+Olá! Eu sou **André de Oliveira**, desenvolvedor full-stack júnior e estudante de **Ciência da Computação**.  
+Comecei na programação com 15 anos, mergulhando primeiro na lógica e depois explorando o mundo do front-end e back-end. Hoje estou focado em melhorar minhas habilidades técnicas e criar soluções que façam diferença na vida das pessoas.
+
+Sou apaixonado por tecnologia, gosto de ouvir **rock** e **música eletrônica** enquanto codifico, e nos momentos livres, curto jogar **videogames**.
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+Sou um desenvolvedor full-stack júnior com conhecimento em diversas tecnologias. Aqui estão algumas das principais ferramentas e linguagens com as quais faço meus projetos:
+
+### 🖥️ Front-End
+ Desenvolvo projetos usando bibliotecas modernas de desenvolvimento web, como:
+- **React.js** – Para interfaces reativas e dinâmicas
+- **Next.js** – Framework React com SSR/SSG
+- **HTML5 / CSS3** – Estrutura e estilização base
+- **Bootstrap** – Design responsivo e rápido
+- **JavaScript** – Linguagem principal do front-end
+- **TypeScript** – Superset do JS com tipagem estática
+
+![React](https://img.shields.io/badge/React-2023.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js]( https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3]( https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap]( https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript]( https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### ⚙️ Back-End
+Tenho conhecimento em várias linguagens e frameworks para o lado servidor:
+- **Node.js** – Ambiente de execução JavaScript no back-end
+- **Express.js** – Framework minimalista para APIs
+- **Java** – Linguagem robusta e orientada a objetos
+- **PHP** – Linguagem amplamente usada em sistemas legados e CMS
+- **Python** – Linguagem versátil e fácil de aprender, usada também para automações e análise de dados
+- **MySQL** – Banco de dados relacional usado em muitos projetos
+
+![Node.js]( https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js]( https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP]( https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python]( https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL]( https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📱 Mobile
+Estou estudando e aplicando conceitos de desenvolvimento mobile para Android:
+- **React Native** – Criando apps multiplataforma com JS/TS
+
+![React Native]( https://img.shields.io/badge/React_Native-2023.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 🔧 Outras Ferramentas
+Uso ferramentas importantes para versionamento, deploy e produtividade:
+- **Git / GitHub** – Controle de versão e colaboração
+- **Linux** – Sistema operacional preferido para desenvolvimento
+- **Docker** – Containerização de aplicações
+- **Figma** – Prototipagem UI/UX
+- **Vite / Expo** – Build rápido de projetos front e mobile
+
+![Git]( https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub]( https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux]( https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker]( https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma]( https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🔭 Atualmente Trabalhando Em
+
+- 📈 Aprimorar minhas habilidades full-stack
+- 🐧 Me aprofundar no uso do sistema Linux
+- 🧩 Estudar novas bibliotecas e frameworks
+- 🌍 Praticar inglês técnico
+
+---
+
+## 🤝 Colaborações e Objetivos
+
+- 💡 Procurando ideias inovadoras para projetos web, mobile e desktop
+- 🛠️ Interessado em participar de projetos reais para ganhar experiência
+- 📚 Preciso de ajuda com:
+  - Documentação eficiente de projetos
+  - Boas práticas de clean code
+  - Recomendações de linguagens/frameworks em alta
+
+---
+
+## 🎯 Estou Aprendendo
+
+- Python
+- React Native
+- TypeScript
+- Comandos Linux
+- Inglês Técnico
+
+---
+
+## ⚡ Curiosidades
+
+🎵 Gosto de ouvir rock e música eletrônica enquanto programo.
+🎮 Nos momentos livres, jogo jogos de acão ou terror.
+🧠 Minha motivação é usar a tecnologia para impactar positivamente outras pessoas.
+
+---
+
+## 🌐 Redes Sociais
+
+- [Instagram](https://www.instagram.com/andreoliveiramoura06/)
+- [LinkedIn](https://www.linkedin.com/in/andreoliveiramoura/)
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+[![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Moura-Dev)]( https://github.com/Andre-Moura-Dev )
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Andre-Moura-Dev)]( https://github.com/Andre-Moura-Dev )
+
+---
+
+## 📬 Vamos Conversar?
+
+Se você tem um projeto legal, dica de aprendizado, ou simplesmente quer trocar uma ideia... **vamos nos conectar!** Será um prazer aprender e crescer junto.
