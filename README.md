@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Olá à todos! Eu sou André</h1>
   <p><strong>Desenvolvedor Full-Stack Júnior | Estudante de Ciência da Computação</strong></p>
-  <img src="ImagemGithub.jpg" alt="Olá"/>
 </div>
 
 ---
