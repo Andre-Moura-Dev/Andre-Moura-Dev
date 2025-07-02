@@ -1,8 +1,25 @@
-<div align="center">
-  <h1>👋 Olá à todos! Eu sou André</h1>
-  <p><strong>Desenvolvedor Full-Stack Júnior | Estudante de Ciência da Computação</strong></p>
-  <img src="https://github.com/Andre-Moura-Dev/Andre-Moura-Dev/blob/main/Imagem%20GitHub.jpg" width="300" />
-</div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+      img {
+        height: 200;
+        width: 200;
+        border: none;
+        border-radius: 50%;
+      }
+    </style>
+  </head>
+  <body>
+      <div align="center">
+          <h1>👋 Olá à todos! Eu sou André</h1>
+          <p><strong>Desenvolvedor Full-Stack Júnior | Estudante de Ciência da Computação</strong></p>
+          <img src="https://github.com/Andre-Moura-Dev/Andre-Moura-Dev/blob/main/Imagem%20GitHub.jpg" />
+      </div>
+  </body>
+</html>
+<!-- Alinhar textos e aplicar "border-radius na imagem" -->
 
 ---
 
