@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="styles.css">
     <style>
       img {
-        height: 200;
         width: 200;
         border: none;
         border-radius: 50%;
