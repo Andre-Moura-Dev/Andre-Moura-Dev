@@ -77,7 +77,7 @@ Uso ferramentas importantes para versionamento, deploy e produtividade:
 ![Docker]( https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma]( https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000000?logo=Expo&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=Expo&logoColor=white)
 
 ---
 
