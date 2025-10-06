@@ -20,6 +20,7 @@ Sou um desenvolvedor full-stack júnior com conhecimento em diversas tecnologias
 
 ### 🖥️ Front-End
  Desenvolvo projetos usando bibliotecas modernas de desenvolvimento web, como:
+- **Angular** - Arquitetura modular e reutilização de código
 - **React.js** – Para interfaces reativas e dinâmicas
 - **Next.js** – Framework React com SSR/SSG
 - **HTML5 / CSS3** – Estrutura e estilização base
@@ -40,6 +41,7 @@ Sou um desenvolvedor full-stack júnior com conhecimento em diversas tecnologias
 
 ### ⚙️ Back-End
 Tenho conhecimento em várias linguagens e frameworks para o lado servidor:
+- **Spring Boot** - Framework java para contrução de API`S restfull
 - **Node.js** – Ambiente de execução JavaScript no back-end
 - **Express.js** – Framework minimalista para APIs
 - **Java** – Linguagem robusta e orientada a objetos
@@ -53,6 +55,7 @@ Tenho conhecimento em várias linguagens e frameworks para o lado servidor:
 ![PHP]( https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python]( https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL]( https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](_https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 ---
 
@@ -108,6 +111,7 @@ Uso ferramentas importantes para versionamento, deploy e produtividade:
 - React Native
 - TypeScript
 - Angular
+- Spring Boot
 - Comandos Linux
 - Inglês Técnico
 
