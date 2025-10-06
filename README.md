@@ -28,6 +28,7 @@ Sou um desenvolvedor full-stack júnior com conhecimento em diversas tecnologias
 - **JavaScript** – Linguagem principal do front-end
 - **TypeScript** – Superset do JS com tipagem estática
 
+![Angular]( https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-2023.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js]( https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +36,6 @@ Sou um desenvolvedor full-stack júnior com conhecimento em diversas tecnologias
 ![Bootstrap]( https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript]( https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular]( https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
