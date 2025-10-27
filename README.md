@@ -41,7 +41,7 @@ Sou um desenvolvedor full-stack júnior com conhecimento em diversas tecnologias
 
 ### ⚙️ Back-End
 Tenho conhecimento em várias linguagens e frameworks para o lado servidor:
-- **Spring Boot** - Framework java para contrução de API`S restfull
+- **Spring Boot** - Framework Java que facilita o desenvolvimento de aplicações web e APIs
 - **Node.js** – Ambiente de execução JavaScript no back-end
 - **Express.js** – Framework minimalista para APIs
 - **Java** – Linguagem robusta e orientada a objetos
