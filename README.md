@@ -49,7 +49,7 @@ Tenho conhecimento em várias linguagens e frameworks para o lado servidor:
 - **Python** – Linguagem versátil e fácil de aprender, usada também para automações e análise de dados
 - **MySQL** – Banco de dados relacional usado em muitos projetos
 
-![SpringBoot](_https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
 ![Node.js]( https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js]( https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
