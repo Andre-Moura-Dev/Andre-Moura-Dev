@@ -1,5 +1,5 @@
 <div align="center">
-      <h1>👋 Olá à todos! Eu sou André</h1>
+      <h1>👋 Olá! Eu sou o André de Oliveira</h1>
       <p><strong>Desenvolvedor Full-Stack Júnior | Estudante de Ciência da Computação</strong></p>
 </div>
 
@@ -7,26 +7,23 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Eu sou **André de Oliveira**, desenvolvedor full-stack júnior e estudante de **Ciência da Computação**.  
-Comecei na programação com 15 anos, mergulhando primeiro na lógica e depois explorando o mundo do front-end e back-end. Hoje estou focado em melhorar minhas habilidades técnicas e criar soluções que façam diferença na vida das pessoas.
+Sou desenvolvedor full-stack júnior e apaixonado por tecnologia. Comecei na programação aos 15 anos, explorando lógica, front-end e back-end. Hoje, busco aprimorar minhas habilidades e criar soluções que realmente impactem pessoas.
 
-Sou apaixonado por tecnologia, gosto de ouvir **rock** e **música eletrônica** enquanto codifico, e nos momentos livres, curto jogar **videogames**.
+Curto ouvir rock e música eletrônica enquanto programo, e nos momentos livres jogo títulos de ação e terror. Minha meta é crescer como profissional e contribuir para projetos reais.
 
 ---
 
 ## 💻 Tecnologias & Ferramentas
 
-Sou um desenvolvedor full-stack júnior com conhecimento em diversas tecnologias. Aqui estão algumas das principais ferramentas e linguagens com as quais faço meus projetos:
-
 ### 🖥️ Front-End
- Desenvolvo projetos usando bibliotecas modernas de desenvolvimento web, como:
-- **Angular** - Arquitetura modular e reutilização de código
-- **React.js** – Para interfaces reativas e dinâmicas
-- **Next.js** – Framework React com SSR/SSG
-- **HTML5 / CSS3** – Estrutura e estilização base
-- **Bootstrap** – Design responsivo e rápido
-- **JavaScript** – Linguagem principal do front-end
-- **TypeScript** – Superset do JS com tipagem estática
+ Desenvolvo aplicações usando bibliotecas modernas de desenvolvimento web, como:
+- **Angular** - Arquitetura modular e escalável
+- **React.js** – Interfaces reativas e dinâmicas
+- **Next.js** – SSR/SSG moderno para aplicações complexas
+- **HTML5 / CSS3** – Estrutura e estilização
+- **Bootstrap** – Componentes responsivos
+- **JavaScript / TypeScript** – Base para desenvolvimento front-end
+- **SASS** - Estilização avançada do CSS comum
 
 ![Angular]( https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-2023.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -36,18 +33,19 @@ Sou um desenvolvedor full-stack júnior com conhecimento em diversas tecnologias
 ![Bootstrap]( https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript]( https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&style=for-the-badge&logoColor=white)
 
 ---
 
 ### ⚙️ Back-End
-Tenho conhecimento em várias linguagens e frameworks para o lado servidor:
-- **Spring Boot** - Framework Java que facilita o desenvolvimento de aplicações web e APIs
-- **Node.js** – Ambiente de execução JavaScript no back-end
-- **Express.js** – Framework minimalista para APIs
-- **Java** – Linguagem robusta e orientada a objetos
-- **PHP** – Linguagem amplamente usada em sistemas legados e CMS
-- **Python** – Linguagem versátil e fácil de aprender, usada também para automações e análise de dados
-- **MySQL** – Banco de dados relacional usado em muitos projetos
+Desenvolvo API`S em várias linguagens e frameworks para o lado servidor:
+- **Spring Boot** - Construção de API`S robustas em Java
+- **Node.js** – JavaScript no back-end
+- **Express.js** – Criação rápida de API`S
+- **Java** – POO e aplicações empresariais
+- **PHP** – Sistemas legados e CMS
+- **Python** – Automação, scripts e aprendizado contínuo 
+- **MySQL** – Modelagens e consultas
 
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
 ![Node.js]( https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -61,7 +59,7 @@ Tenho conhecimento em várias linguagens e frameworks para o lado servidor:
 
 ### 📱 Mobile
 Estou estudando e aplicando conceitos de desenvolvimento mobile para Android:
-- **React Native** – Criando apps multiplataforma com JS/TS
+- **React Native** – Aplicativos Multiplataforma (Android/iOS)
 
 ![React Native]( https://img.shields.io/badge/React_Native-2023.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -69,11 +67,11 @@ Estou estudando e aplicando conceitos de desenvolvimento mobile para Android:
 
 ### 🔧 Outras Ferramentas
 Uso ferramentas importantes para versionamento, deploy e produtividade:
-- **Git / GitHub** – Controle de versão e colaboração
-- **Linux** – Sistema operacional preferido para desenvolvimento
+- **Git / GitHub** – Versionamento e colaboração
+- **Linux** – Ambiente de desenvolvimento
 - **Docker** – Containerização de aplicações
-- **Figma** – Prototipagem UI/UX
-- **Vite / Expo** – Build rápido de projetos front e mobile
+- **Figma** – UI/UX e prototipação
+- **Vite / Expo** – Build rápido para web e mobile
 
 ![Git]( https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub]( https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -81,7 +79,7 @@ Uso ferramentas importantes para versionamento, deploy e produtividade:
 ![Docker]( https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma]( https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?logo=Expo&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white)
 
 ---
 
