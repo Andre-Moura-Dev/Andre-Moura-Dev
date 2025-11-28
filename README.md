@@ -16,12 +16,12 @@ Curto ouvir rock e música eletrônica enquanto programo, e nos momentos livres 
 ## 💻 Tecnologias & Ferramentas
 
 ### 🖥️ Front-End
- Desenvolvo aplicações usando bibliotecas modernas de desenvolvimento web, como:
+ Desenvolvo aplicações usando bibliotecas modernas e frameworks modernos de desenvolvimento web, como:
 - **Angular** - Arquitetura modular e escalável
 - **React.js** – Interfaces reativas e dinâmicas
 - **Next.js** – SSR/SSG moderno para aplicações complexas
 - **HTML5 / CSS3** – Estrutura e estilização
-- **Bootstrap** – Componentes responsivos
+- **Bootstrap** – Componentes prontos e responsivos
 - **JavaScript / TypeScript** – Base para desenvolvimento front-end
 - **SASS** - Estilização avançada do CSS comum
 
