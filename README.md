@@ -1,13 +1,13 @@
 <div align="center">
       <h1>👋 Olá! Eu sou o André de Oliveira</h1>
-      <p><strong>Desenvolvedor Full-Stack Júnior | Estudante de Ciência da Computação</strong></p>
+      <p><strong>Desenvolvedor Full-Stack | Estudante de Ciência da Computação</strong></p>
 </div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou desenvolvedor full-stack júnior e apaixonado por tecnologia. Comecei na programação aos 15 anos, explorando lógica, front-end e back-end. Hoje, busco aprimorar minhas habilidades e criar soluções que realmente impactem pessoas.
+Sou desenvolvedor full-stack e apaixonado por tecnologia. Comecei na programação aos 15 anos, explorando lógica, front-end e back-end. Hoje, busco aprimorar minhas habilidades e criar soluções que realmente impactem pessoas.
 
 Curto ouvir rock e música eletrônica enquanto programo, e nos momentos livres jogo títulos de ação e terror. Minha meta é crescer como profissional e contribuir para projetos reais.
 
@@ -23,7 +23,7 @@ Curto ouvir rock e música eletrônica enquanto programo, e nos momentos livres 
 - **HTML5 / CSS3** – Estrutura e estilização
 - **Bootstrap** – Componentes prontos e responsivos
 - **JavaScript / TypeScript** – Base para desenvolvimento front-end
-- **SASS** - Estilização avançada do CSS comum
+- **SASS** - pré-processador que estende as capacidades do CSS
 
 ![Angular]( https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-2023.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
