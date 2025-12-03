@@ -21,7 +21,7 @@ Curto ouvir rock e música eletrônica enquanto programo, e nos momentos livres 
 - **React.js** – Interfaces reativas e dinâmicas
 - **Next.js** – SSR/SSG moderno para aplicações complexas
 - **HTML5 / CSS3** – Estrutura e estilização
-- **Bootstrap** – Componentes prontos e responsivos
+- **BootStrap** – Componentes prontos e responsivos
 - **JavaScript / TypeScript** – Base para desenvolvimento front-end
 - **SASS** - pré-processador que estende as capacidades do CSS
 
