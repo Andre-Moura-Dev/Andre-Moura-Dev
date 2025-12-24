@@ -58,7 +58,7 @@ Desenvolvo API`S em várias linguagens e frameworks para o lado servidor:
 ---
 
 ### 📱 Mobile
-Estou estudando e aplicando conceitos de desenvolvimento mobile para Android:
+Desenvolvo aplicativos mobile para Android usando:
 - **React Native** – Aplicativos Multiplataforma (Android/iOS)
 
 ![React Native]( https://img.shields.io/badge/React_Native-2023.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
