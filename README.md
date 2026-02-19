@@ -41,7 +41,7 @@ Curto ouvir rock e música eletrônica enquanto programo, e nos momentos livres 
 Desenvolvo API`S em várias linguagens e frameworks para o lado servidor:
 - **Spring Boot** - Construção de API`S robustas em Java
 - **Node.js** – JavaScript no back-end
-- **Express.js** – Criação rápida de API`S
+- **Express.js** – Construção rápida de API`S
 - **Java** – POO e aplicações empresariais
 - **PHP** – Sistemas legados e CMS
 - **Python** – Automação, scripts e aprendizado contínuo 
