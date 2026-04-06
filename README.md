@@ -125,7 +125,7 @@ Uso ferramentas importantes para versionamento, deploy e produtividade:
 
 ## 🌐 Redes Sociais
 
-- [Instagram](https://www.instagram.com/andreoliveiramoura06/)
+- [Instagram](https://www.instagram.com/andreoliveira.dev/)
 - [LinkedIn](https://www.linkedin.com/in/andreoliveiramoura/)
 
 ---
