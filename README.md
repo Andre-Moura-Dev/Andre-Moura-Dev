@@ -22,7 +22,7 @@ Curto ouvir rock e música eletrônica enquanto programo, e nos momentos livres 
 - **Next.js** – SSR/SSG moderno para aplicações complexas
 - **HTML5 / CSS3** – Estrutura e estilização
 - **BootStrap** – Componentes prontos e responsivos
-- **JavaScript / TypeScript** – Base para desenvolvimento front-end
+- **JavaScript / TypeScript** – Aplicações web modernas
 - **SASS** - pré-processador que estende as capacidades do CSS
 
 ![Angular]( https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
