@@ -46,7 +46,7 @@ Atualmente, busco aprofundar meus conhecimentos em arquitetura de software, dese
 ---
 
 ### ⚙️ Back-End
-Desenvolvimento de API`S, regras de negócio e aplicações server-side utilizando:
+Desenvolvo API`S, regras de negócio e aplicações server-side utilizando:
 - **Spring Boot** - Construção de API`S robustas em Java
 - **Node.js** – JavaScript no back-end
 - **Express.js** – Construção rápida de API`S
