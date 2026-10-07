@@ -106,6 +106,7 @@ Ferramentas utilizadas no fluxo de desenvolvimento e produtividade:
 - TypeScript
 - Angular
 - Spring Boot
+- Python
 - Linux
 - Inglês Técnico
 - Boas práticas de Clean Code
